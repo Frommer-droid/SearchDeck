@@ -1,0 +1,22 @@
+{
+  "x": null,
+  "y": null,
+  "width": null,
+  "height": null,
+  "maximized": false,
+  "ui_scale_mode": "auto",
+  "ui_scale_delta_percent": 0,
+  "ui_scale_percent": 100,
+  "action_delay_ms": 250,
+  "post_paste_delay_ms": 500,
+  "active_tab_id": "example",
+  "browser_profile_number": 1,
+  "tabs": [
+    {
+      "id": "example",
+      "title": "Пример",
+      "accordion_expanded_category_ids": [],
+      "categories": []
+    }
+  ]
+}
